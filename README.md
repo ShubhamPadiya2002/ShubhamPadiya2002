@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubham Padiya</h1>
-<h3 align="center">A passionate Data Analyst Enthusiast from India</h3>
+<h3 align="center">A Passionate Data Analyst Enthusiast from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1063314/screenshots/3020974/tdsocial_dribbble.gif">
 
