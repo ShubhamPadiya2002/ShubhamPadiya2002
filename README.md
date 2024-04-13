@@ -10,3 +10,6 @@
 - 🔭 I’m currently exploring **various data analysis projects, and refining my skills in data analysis and visualization.**
   
 - 👯 I’m looking to collaborate **on entry-level data analysis projects or initiatives where I can contribute my knowledge and learn from experienced professionals in the field.**
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
